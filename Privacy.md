@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the SpawnMap app (hereby referred to as "Application") for mobile devices that was created by Asiye Güney (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the ViralGuru app (hereby referred to as "Application") for mobile devices that was created by Asiye Güney (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -10,12 +10,6 @@ The Application collects information when you download and use it. This informat
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
 *   The operating system you use on your mobile device
-
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
@@ -29,7 +23,7 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Mapbox](https://www.mapbox.com/legal/privacy)
+*   [Firebase Vertex AI](https://firebase.google.com/support/privacy)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:

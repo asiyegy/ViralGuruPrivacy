@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-These terms and conditions apply to the SpawnMap app (hereby referred to as "Application") for mobile devices that was created by Asiye Güney (hereby referred to as "Service Provider") as a Freemium service.
+These terms and conditions apply to the ViralGuru app (hereby referred to as "Application") for mobile devices that was created by Asiye Güney (hereby referred to as "Service Provider") as a Freemium service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
@@ -12,7 +12,7 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
-*   [Mapbox](https://www.mapbox.com/legal/tos)
+*   [Firebase Vertex AI](https://firebase.google.com/support/privacy](https://firebase.google.com/terms))
 *   [RevenueCat](https://www.revenuecat.com/terms)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
